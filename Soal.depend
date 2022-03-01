@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1645523989 source:c:\users\user\documents\codeblocks\soal\main.cpp
+	<iostream>
+	"soal.h"
+
+1645523053 c:\users\user\documents\codeblocks\soal\soal.h
+
+1645523684 source:c:\users\user\documents\codeblocks\soal\soal.cpp
+
